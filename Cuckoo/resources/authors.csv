@@ -1,0 +1,201 @@
+ISBN,AuthorName,Nationality
+ISBN00000,Author 0,Afghanistan
+ISBN00001,Author 1,Albania
+ISBN00002,Author 2,Algeria
+ISBN00003,Author 3,Andorra
+ISBN00004,Author 4,Angola
+ISBN00005,Author 5,Antigua and Barbuda
+ISBN00006,Author 6,Argentina
+ISBN00007,Author 7,Armenia
+ISBN00008,Author 8,Australia
+ISBN00009,Author 9,Austria
+ISBN00010,Author 10,Azerbaijan
+ISBN00011,Author 11,Bahamas
+ISBN00012,Author 12,Bahrain
+ISBN00013,Author 13,Bangladesh
+ISBN00014,Author 14,Barbados
+ISBN00015,Author 15,Belarus
+ISBN00016,Author 16,Belgium
+ISBN00017,Author 17,Belize
+ISBN00018,Author 18,Benin
+ISBN00019,Author 19,Bhutan
+ISBN00020,Author 20,Bolivia
+ISBN00021,Author 21,Bosnia and Herzegovina
+ISBN00022,Author 22,Botswana
+ISBN00023,Author 23,Brazil
+ISBN00024,Author 24,Brunei
+ISBN00025,Author 25,Bulgaria
+ISBN00026,Author 26,Burkina Faso
+ISBN00027,Author 27,Burundi
+ISBN00028,Author 28,Côte d'Ivoire
+ISBN00029,Author 29,Cabo Verde
+ISBN00030,Author 30,Cambodia
+ISBN00031,Author 31,Cameroon
+ISBN00032,Author 32,Canada
+ISBN00033,Author 33,Central African Republic
+ISBN00034,Author 34,Chad
+ISBN00035,Author 35,Chile
+ISBN00036,Author 36,China
+ISBN00037,Author 37,Colombia
+ISBN00038,Author 38,Comoros
+ISBN00039,Author 39,Congo (Congo-Brazzaville)
+ISBN00040,Author 40,Costa Rica
+ISBN00041,Author 41,Croatia
+ISBN00042,Author 42,Cuba
+ISBN00043,Author 43,Cyprus
+ISBN00044,Author 44,Czechia (Czech Republic)
+ISBN00045,Author 45,Democratic Republic of the Congo
+ISBN00046,Author 46,Denmark
+ISBN00047,Author 47,Djibouti
+ISBN00048,Author 48,Dominica
+ISBN00049,Author 49,Dominican Republic
+ISBN00050,Author 50,Ecuador
+ISBN00051,Author 51,Egypt
+ISBN00052,Author 52,El Salvador
+ISBN00053,Author 53,Equatorial Guinea
+ISBN00054,Author 54,Eritrea
+ISBN00055,Author 55,Estonia
+ISBN00056,Author 56,"Eswatini (fmr. ""Swaziland"")"
+ISBN00057,Author 57,Ethiopia
+ISBN00058,Author 58,Fiji
+ISBN00059,Author 59,Finland
+ISBN00060,Author 60,France
+ISBN00061,Author 61,Gabon
+ISBN00062,Author 62,Gambia
+ISBN00063,Author 63,Georgia
+ISBN00064,Author 64,Germany
+ISBN00065,Author 65,Ghana
+ISBN00066,Author 66,Greece
+ISBN00067,Author 67,Grenada
+ISBN00068,Author 68,Guatemala
+ISBN00069,Author 69,Guinea
+ISBN00070,Author 70,Guinea-Bissau
+ISBN00071,Author 71,Guyana
+ISBN00072,Author 72,Haiti
+ISBN00073,Author 73,Holy See
+ISBN00074,Author 74,Honduras
+ISBN00075,Author 75,Hungary
+ISBN00076,Author 76,Iceland
+ISBN00077,Author 77,India
+ISBN00078,Author 78,Indonesia
+ISBN00079,Author 79,Iran
+ISBN00080,Author 80,Iraq
+ISBN00081,Author 81,Ireland
+ISBN00082,Author 82,Israel
+ISBN00083,Author 83,Italy
+ISBN00084,Author 84,Jamaica
+ISBN00085,Author 85,Japan
+ISBN00086,Author 86,Jordan
+ISBN00087,Author 87,Kazakhstan
+ISBN00088,Author 88,Kenya
+ISBN00089,Author 89,Kiribati
+ISBN00090,Author 90,Kuwait
+ISBN00091,Author 91,Kyrgyzstan
+ISBN00092,Author 92,Laos
+ISBN00093,Author 93,Latvia
+ISBN00094,Author 94,Lebanon
+ISBN00095,Author 95,Lesotho
+ISBN00096,Author 96,Liberia
+ISBN00097,Author 97,Libya
+ISBN00098,Author 98,Liechtenstein
+ISBN00099,Author 99,Lithuania
+ISBN00100,Author 100,Luxembourg
+ISBN00101,Author 101,Madagascar
+ISBN00102,Author 102,Malawi
+ISBN00103,Author 103,Malaysia
+ISBN00104,Author 104,Maldives
+ISBN00105,Author 105,Mali
+ISBN00106,Author 106,Malta
+ISBN00107,Author 107,Marshall Islands
+ISBN00108,Author 108,Mauritania
+ISBN00109,Author 109,Mauritius
+ISBN00110,Author 110,Mexico
+ISBN00111,Author 111,Micronesia
+ISBN00112,Author 112,Moldova
+ISBN00113,Author 113,Monaco
+ISBN00114,Author 114,Mongolia
+ISBN00115,Author 115,Montenegro
+ISBN00116,Author 116,Morocco
+ISBN00117,Author 117,Mozambique
+ISBN00118,Author 118,Myanmar (formerly Burma)
+ISBN00119,Author 119,Namibia
+ISBN00120,Author 120,Nauru
+ISBN00121,Author 121,Nepal
+ISBN00122,Author 122,Netherlands
+ISBN00123,Author 123,New Zealand
+ISBN00124,Author 124,Nicaragua
+ISBN00125,Author 125,Niger
+ISBN00126,Author 126,Nigeria
+ISBN00127,Author 127,North Korea
+ISBN00128,Author 128,North Macedonia (formerly Macedonia)
+ISBN00129,Author 129,Norway
+ISBN00130,Author 130,Oman
+ISBN00131,Author 131,Pakistan
+ISBN00132,Author 132,Palau
+ISBN00133,Author 133,Palestine State
+ISBN00134,Author 134,Panama
+ISBN00135,Author 135,Papua New Guinea
+ISBN00136,Author 136,Paraguay
+ISBN00137,Author 137,Peru
+ISBN00138,Author 138,Philippines
+ISBN00139,Author 139,Poland
+ISBN00140,Author 140,Portugal
+ISBN00141,Author 141,Qatar
+ISBN00142,Author 142,Romania
+ISBN00143,Author 143,Russia
+ISBN00144,Author 144,Rwanda
+ISBN00145,Author 145,Saint Kitts and Nevis
+ISBN00146,Author 146,Saint Lucia
+ISBN00147,Author 147,Saint Vincent and the Grenadines
+ISBN00148,Author 148,Samoa
+ISBN00149,Author 149,San Marino
+ISBN00150,Author 150,Sao Tome and Principe
+ISBN00151,Author 151,Saudi Arabia
+ISBN00152,Author 152,Senegal
+ISBN00153,Author 153,Serbia
+ISBN00154,Author 154,Seychelles
+ISBN00155,Author 155,Sierra Leone
+ISBN00156,Author 156,Singapore
+ISBN00157,Author 157,Slovakia
+ISBN00158,Author 158,Slovenia
+ISBN00159,Author 159,Solomon Islands
+ISBN00160,Author 160,Somalia
+ISBN00161,Author 161,South Africa
+ISBN00162,Author 162,South Korea
+ISBN00163,Author 163,South Sudan
+ISBN00164,Author 164,Spain
+ISBN00165,Author 165,Sri Lanka
+ISBN00166,Author 166,Sudan
+ISBN00167,Author 167,Sudan
+ISBN00168,Author 168,Sweden
+ISBN00169,Author 169,Switzerland
+ISBN00170,Author 170,Syria
+ISBN00171,Author 171,Tajikistan
+ISBN00172,Author 172,Tanzania
+ISBN00173,Author 173,Thailand
+ISBN00174,Author 174,Timor-Leste
+ISBN00175,Author 175,Togo
+ISBN00176,Author 176,Tonga
+ISBN00177,Author 177,Trinidad and Tobago
+ISBN00178,Author 178,Tunisia
+ISBN00179,Author 179,Turkey
+ISBN00180,Author 180,Turkmenistan
+ISBN00181,Author 181,Tuvalu
+ISBN00182,Author 182,Uganda
+ISBN00183,Author 183,Ukraine
+ISBN00184,Author 184,United Arab Emirates
+ISBN00185,Author 185,United Kingdom
+ISBN00186,Author 186,United States
+ISBN00187,Author 187,Uruguay
+ISBN00188,Author 188,Uzbekistan
+ISBN00189,Author 189,Vanuatu
+ISBN00190,Author 190,Venezuela
+ISBN00191,Author 191,Vietnam
+ISBN00192,Author 192,Yemen
+ISBN00193,Author 193,Zambia
+ISBN00194,Author 194,Zimbabwe
+ISBN00195,Author 195,Gambia
+ISBN00196,Author 196,Senegal
+ISBN00197,Author 197,Ghana
+ISBN00198,Author 198,Gambia
+ISBN00199,Author 199,Senegal

@@ -24,15 +24,12 @@ public class Calcite_Main {
             	    + "     { name: 'default',"
             	    + "       type: 'custom',"
             	    + "       factory: 'org.apache.calcite.adapter.csv.CsvSchemaFactory',"
-            	    + "       operand: { directory: 'C:/Users/MKT/eclipse-workspace/Cuckoo/resources',"
-            	    + "                  file: 'test.csv',"
+            	    + "       operand: { directory: 'C:/Users/MKT/git/repository/Cuckoo/resources',"
+            	    + "                  file: 'books.csv',"
             	    + "                  flavor: 'scannable' }"
             	    + "     }"
             	    + "  ]"
             	    + "}");
-
-
-            
 
             Connection connection = DriverManager.getConnection("jdbc:calcite:", info);
             CalciteConnection calciteConnection = connection.unwrap(CalciteConnection.class);
